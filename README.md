@@ -16,6 +16,7 @@ This project analyzes 10 years of global cybersecurity threat data (3,001 incide
 - Incident response performance metrics
 - Strategic recommendations for C-suite and Board members
 
+- Note: A manifest.json file specifying R dependencies is required within the R project to publish on Posit CLoud
 ---
 
 ## Project Structure
